@@ -1,0 +1,3 @@
+include ':zxinglibslsd'
+include ':app'
+rootProject.name = "zxing_lsd"
